@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e4c9c1cb474512108007b4fe316d433a" extends="sys_import_set_row" label="wish list excel" max_length="40" name="x_snc_wish_list_wish_list_excel" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Item" label="Item" max_length="40" name="u_item" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Requester" label="Requester" max_length="40" name="u_requester" type="string"/>
+    </element>
+</database>
